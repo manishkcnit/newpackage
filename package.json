@@ -1,0 +1,15 @@
+{
+  "name": "@manishkcnit/spectree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/manishkcnit/newpackage.git"
+  },
+  "author": "Manish kumar",
+  "license": "ISC"
+}
