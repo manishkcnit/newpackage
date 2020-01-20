@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git://https://github.com/manishkcnit/newpackage.git"
   },
-  "file": [
-    "shared-commands"
-  ],
   "author": "Manish kumar",
   "license": "ISC",
   "dependencies": {
